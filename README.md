@@ -4,7 +4,7 @@
 
 ***
 
-PopCat icon trash in you recycle bin
+PopCat icon trash in you recycle bin | Иконка PopCat для корзины
 
 <div align="left">
 Recycle bin icon empty
