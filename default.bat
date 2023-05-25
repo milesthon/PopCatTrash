@@ -18,5 +18,5 @@ rd /s /q "%USERPROFILE%\AppData\Local\PopCatTrushIco" 2>nul >nul
 
 ie4uinit.exe -show 2>nul >nul
 
-cls&echo.&echo Done!&echo.
+cls&echo.&echo Done! You may need to log out or restart the PC.&echo.
 pause
