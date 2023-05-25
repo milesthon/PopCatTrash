@@ -6,11 +6,12 @@
 
 PopCat icon trash in you recycle bin
 
-<div align="center">
 Recycle bin icon empty
-<img alt="Image" src="https://github.com/milesthon/PopCatTrash/blob/main/empty.ico"/>
 <div align="center">
-Recycle bin icon full
+<img alt="Image" src="https://github.com/milesthon/PopCatTrash/blob/main/empty.ico"/>
+
+Recycle bin icon full  
+<div align="center">
 <img alt="Image" src="https://github.com/milesthon/PopCatTrash/blob/main/full.ico"/>
 
 ***
